@@ -1,0 +1,22 @@
+{
+    "name": "@paritosh_raj/add",
+    "version": "2.0.0",
+    "description": "simple adding funtion",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paritoshraj11/simpleAdd.git"
+    },
+    "keywords": [
+        "add"
+    ],
+    "author": "paritosh_raj",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/paritoshraj11/simpleAdd/issues"
+    },
+    "homepage": "https://github.com/paritoshraj11/simpleAdd#readme"
+}
